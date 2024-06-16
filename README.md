@@ -36,6 +36,7 @@ The project involves several key steps:
 - `cat_dog_classification.ipynb`: Jupyter notebook containing the complete code for data preprocessing, model building, training, evaluation, and prediction.
 - `Cat_Dog`: Folder containing the original dataset of images classified as cats and dogs.
 - `Cat_Dog_resized`: Folder containing the resized images of cats and dogs, standardized to 224x224 pixels.
+- The dataset can be downloaded from:https://www.kaggle.com/datasets/karakaggle/kaggle-cat-vs-dog-dataset
 
 ## Libraries Used
 
